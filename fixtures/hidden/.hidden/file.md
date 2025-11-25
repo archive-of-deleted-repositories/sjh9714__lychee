@@ -1,1 +1,1 @@
-https://wikipedia.org
+https://rust-lang.org
